@@ -32,13 +32,13 @@ void main() {
 
   // print(fruits);
 
-  // ##############  MAPS -- KEY:VALUE  ###################
+  // ##############  MAPS has --> KEY:VALUE  ###################
 
-  // Map<String, int> scores = {
-  //   "John" : 22,
-  //   "Leo" : 78,
-  //   "Sam" : 12,
-  // };
+  Map<String, int> scores = {
+    "John" : 22,
+    "Leo" : 78,
+    "Sam" : 12,
+  };
 
   // Map<int, String> students = {
   //   1 : "James",
