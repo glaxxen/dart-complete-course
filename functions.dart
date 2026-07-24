@@ -10,17 +10,17 @@
 //   print("Please wait...");
 // }
 
-// void login() {
-//   print('Welcome back!');
-// }
+void login() {
+  print('Welcome back!');
+}
 
-// void logout() {
-//   print('You have just logged out!');
-// }
+void logout() {
+  print('You have just logged out!');
+}
 
-// void loadProducts() {
-//   print('This product is available!');
-// }
+void loadProducts() {
+  print('This product is available!');
+}
 
 void main() {
   // var person_1 = sum(10, 2);
