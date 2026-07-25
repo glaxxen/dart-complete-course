@@ -1,38 +1,73 @@
-# Dart Fundamentals Course
+#  Complete Dart Course for Beginners
 
-This repository contains a beginner-friendly set of Dart lesson files created for a course video. Each file focuses on one topic and is designed to be easy to read, run, and reuse by students.
+Welcome to the official GitHub repository for my Complete Dart Course.
 
-## What is included
+This repository contains all the source code, examples and learning resources used throughout the course.
 
-- Variables and data types
-- Operators and conditions
-- Loops and logical expressions
-- Functions and named parameters
-- Collections such as lists, sets, and maps
-- Object-oriented programming basics
-- Null safety and user input
+## 📺 Watch the Course
 
-## How to run a lesson
+YouTube Playlist:
+https://youtube.com/playlist?list=PLWGbp5otaqPA&si=eHAlpHSkElF25zqg
 
-1. Install the Dart SDK.
-2. Open this folder in your terminal.
-3. Run any lesson file with a command like:
+--- 
 
-   dart run variables.dart
+## Course Structure
 
-You can replace the filename with any lesson file, such as:
+01 - Introduction & Installation
 
-- dart run condition.dart
-- dart run loops.dart
-- dart run oop-basics.dart
+02 - Variables
 
-## Study structure
+03 - Data Types
 
-- Open one file at a time.
-- Read the comments first.
-- Try the examples by uncommenting lines gradually.
-- Use the files as a personal reference after the course.
+04 - String Manipulation
 
-## Git purpose
+05 - const vs final
 
-This version is intended to be a clean, final learning package that students can clone or download from GitHub whenever they need to review the material.
+06 - User Input
+
+07 - Type Conversion
+
+08 - var vs dynamic
+
+09 - Operators
+
+10 - Conditional Statements
+
+11 - Logical Operators
+
+12 - Collections
+
+13 - Increment & Decrement
+
+14 - Loops
+
+15 - Functions
+
+16 - Named Parameters
+
+17 - Null Safety
+
+18 - Classes & Constructors
+
+19 - Object-Oriented Programming
+
+---
+
+##  Repository Structure
+
+---
+
+## Resources
+
+This repository may also include:
+
+- PDF Notes
+- Exercises
+- Practice Files
+- Sample Projects
+
+---
+
+⭐ If this repository helped you, consider giving it a star.
+
+Happy Coding!
