@@ -1,0 +1,5 @@
+name: dart_fundamentals
+description: Beginner-friendly Dart lesson examples for students and course reuse.
+version: 1.0.0
+environment:
+ sdk: ^3.11.0
