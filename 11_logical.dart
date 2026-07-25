@@ -20,14 +20,14 @@ void main() {
   //   print('failed!');
   // }
 
-  bool hasID = true;
-  bool bvn = false;
+  // bool hasID = true;
+  // bool bvn = false;
 
-  if (hasID && bvn) {
-    print('You can register an account!');
-  } 
+  // if (hasID && bvn) {
+  //   print('You can register an account!');
+  // } 
   
-  else {
-    print('You are not eligible at this time!');
-  }
+  // else {
+  //   print('You are not eligible at this time!');
+  // }
 }
