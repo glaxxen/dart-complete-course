@@ -3,7 +3,7 @@
 /// Run with: dart run 17_null-safety.dart
 void main() {
   String? name = null;
-  // name ??= 'Mich';
+  name ??= 'Michl';
 
   print(name?.length);
 }
