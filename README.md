@@ -14,7 +14,7 @@ https://youtube.com/playlist?list=PLWGbp5otaqPA&si=eHAlpHSkElF25zqg
 
 --- 
 
-## () Course Structure ()
+## (!) Course Structure (!)
 
 01 - Introduction & Installation
 
