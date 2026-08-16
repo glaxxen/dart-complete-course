@@ -14,7 +14,7 @@ https://youtube.com/playlist?list=PLWGbp5otaqPA&si=eHAlpHSkElF25zqg
 
 --- 
 
-## ) Course Structure (
+## () Course Structure ()
 
 01 - Introduction & Installation
 
@@ -53,6 +53,8 @@ https://youtube.com/playlist?list=PLWGbp5otaqPA&si=eHAlpHSkElF25zqg
 18 - Classes & Constructors
 
 19 - Object-Oriented Programming
+
+20 - END
 
 ---
 
