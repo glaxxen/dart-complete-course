@@ -9,9 +9,12 @@ This repository contains all the source code, examples and learning resources us
 YouTube Playlist:
 https://youtube.com/playlist?list=PLWGbp5otaqPA&si=eHAlpHSkElF25zqg
 
+YouTube Playlist:
+https://youtube.com/playlist?list=PLWGbp5otaqPA&si=eHAlpHSkElF25zqg
+
 --- 
 
-## Course Structure
+## ) Course Structure (
 
 01 - Introduction & Installation
 
