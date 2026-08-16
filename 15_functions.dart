@@ -32,10 +32,10 @@ void main() {
   sum(2, 3);
 }
 
-// void greeting(String name, int age) {
-//   print("Welcome $name");
-//   print('You are $age years old');
-// }
+void greeting(String name, int age) {
+   print("Welcome $name");
+   print('You are $age years old');
+ }
 
 // 1. Create a function
 //2. Pass arguments and parameters
