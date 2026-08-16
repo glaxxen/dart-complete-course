@@ -26,10 +26,10 @@ void loadProducts() {
 }
 
 void main() {
-  // var person_1 = sum(10, 2);
-  // print(person_1);
+  var person_1 = sum(10, 2);
+  print(person_1);
 
-  // sum(2, 3);
+  sum(2, 3);
 }
 
 // void greeting(String name, int age) {
