@@ -9,11 +9,11 @@ void main() {
   //   index++;
   // }
 
-  // int i = 10;
-  // while (i <= 20) {
-  //   print("Hello World");
-  //   i++;
-  // }
+   int i = 10;
+   while (i <= 20) {
+     print("Hello World");
+     i++;
+   }
 
   for (int i = 1; i <= 20; i++) {
     print(i);
